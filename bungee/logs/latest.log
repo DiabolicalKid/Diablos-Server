@@ -48,3 +48,13 @@
 [18:37:18] [main/INFO]: Enabled plugin EaglercraftXBungee version 1.0.10 by lax1dude
 [18:37:18] [Netty Boss IO Thread #0/INFO]: Listening on /127.0.0.1:25577
 [18:37:18] [EaglerXBungee: Network Tick Tasks/INFO] [EaglercraftXBungee]: Loaded certificate: /workspaces/Diablos-Server/bungee/plugins/EaglercraftXBungee/eagcert/$dl.11da5ec1e9d8efe3fa0e9998b0c264f5c8cb155f.cert
+[18:38:56] [Netty Worker IO Thread #1/WARN] [EaglercraftXBungee]: Server icon is not a file: /workspaces/Diablos-Server/bungee/server-icon.png
+[18:38:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37008]: Connected via websocket
+[18:38:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37008]: Origin header is https://eaglertechfix.github.io
+[18:38:58] [Netty Worker IO Thread #2/INFO] [EaglercraftXBungee]: [/[0:0:0:0:0:0:0:1%0]:37008]: Logged in as 'Diabolical'
+[18:38:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37008|Diabolical] -> UpstreamBridge has connected
+[18:38:58] [Netty Worker IO Thread #2/INFO]: [Diabolical|/[0:0:0:0:0:0:0:1%0]:37008] <-> ServerConnector [lobby] has connected
+[18:38:58] [Netty Worker IO Thread #2/ERROR]: [Diabolical|/[0:0:0:0:0:0:0:1%0]:37008] <-> ServerConnector [lobby] - encountered exception: net.md_5.bungee.util.QuietException: Server is online mode!
+[18:38:58] [Netty Worker IO Thread #2/INFO]: [Diabolical] disconnected with: Exception Connecting:QuietException : Server is online mode!
+[18:38:58] [Netty Worker IO Thread #2/INFO]: [/[0:0:0:0:0:0:0:1%0]:37008|Diabolical] -> UpstreamBridge has disconnected
+[18:38:58] [Netty Worker IO Thread #2/INFO]: [Diabolical|/[0:0:0:0:0:0:0:1%0]:37008] <-> ServerConnector [lobby] has disconnected

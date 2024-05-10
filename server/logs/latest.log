@@ -208,3 +208,4 @@
 
 [18:37:09] [Craft Scheduler Thread - 0/INFO]: [0;31;1m[SimpleTpa] https://www.spigotmc.org/resources/simple-tpa.64270/[m
 
+[18:38:58] [Server thread/INFO]: com.mojang.authlib.GameProfile@36a8cc29[id=<null>,name=Diabolical,properties={},legacy=false] (/[0:0:0:0:0:0:0:1]:51462) lost connection: Disconnected
