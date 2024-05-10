@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "aa3324ef-2714-399b-89f7-cb7d1b75b7da",
+    "name": "Diabolical",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
